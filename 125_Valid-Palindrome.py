@@ -1,7 +1,9 @@
 # Best Solution (44ms)
 class Solution:
-    # @param s (string)
-    # @return boolean
+    """
+    :type s: str
+    :rtype : bool
+    """
     def isPalindrome(self, s: str) -> bool:
         res = ""
         for i in s:
@@ -22,8 +24,10 @@ print("TestCase #3 :", Solution().isPalindrome(TC_3))
 
 # List Solution (324ms)
 class Solution:
-    # @param s (string)
-    # @return boolean
+    """
+    :type s: str
+    :rtype : bool
+    """
     def isPalindrome_list(self, s:str) -> bool:
         res = []
         for char in s:
@@ -41,8 +45,10 @@ class Solution:
 import collections
 # Deque Solution (86ms)
 class Solution:
-    # @param s (string)
-    # @return boolean
+    """
+    :type s: str
+    :rtype : bool
+    """
     def isPalindrome_deque(self, s:str) -> bool:
         strs = collections.deque()
         for char in s:
@@ -60,10 +66,33 @@ class Solution:
 import re
 # regex Solution (53ms)
 class Solution:
-    # @param s (string)
-    # @return boolean
+    """
+    :type s: str
+    :rtype : bool
+    """
     def isPalindrome_regex(self, s:str) -> bool:
         s = s.lower()
         s = re.sub('[^a-zA-Z0-9]','',s)
 
         return s == s[::-1]
+
+
+class Solution:
+    """
+    :type s: str
+    :rtype : bool
+    """
+    def isPalindrome(self, s: str) -> bool:
+        l, r = 0, len(s) - 1
+
+        while l < r:
+            if not s[l].isalnum():
+                l += 1
+            elif not s[r].isalnum():
+                r -= 1
+            elif s[l].lower() != s[r].lower():
+                return False
+            else:
+                l, r = l + 1, r - 1
+
+        return True
