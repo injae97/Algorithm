@@ -5,5 +5,5 @@
 
     유효한 팰린드롬 (125. Valid Palindrome)
 
-        - Solution Collection (Using isalnum(), list, deque, regex)
+        - Solution Collection (Using isalnum(), list, deque, regex, two-pointer)
             - https://leetcode.com/problems/valid-palindrome/
