@@ -10,5 +10,6 @@
 
 
     문자열 뒤집기 (344. Reverse String)
+
         - Solution Collection (two pointer, list-reverse, trick)
             - https://leetcode.com/problems/reverse-string/
