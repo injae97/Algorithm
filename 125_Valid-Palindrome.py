@@ -42,8 +42,8 @@ class Solution:
         return True
 
 
-import collections
 # Deque Solution (86ms)
+import collections
 class Solution:
     """
     :type s: str
@@ -63,8 +63,8 @@ class Solution:
         return True
 
 
-import re
 # regex Solution (53ms)
+import re
 class Solution:
     """
     :type s: str
@@ -77,6 +77,7 @@ class Solution:
         return s == s[::-1]
 
 
+# two-pointer Solution (51ms)
 class Solution:
     """
     :type s: str
