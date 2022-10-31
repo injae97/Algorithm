@@ -23,6 +23,17 @@
 
     로그 파일 재정렬 (937. Reorder Data in Log Files)
 
-        - Solution Collection (two pointer, list-reverse, trick)
+        - Solution (lambda) 
             * https://leetcode.com/problems/reorder-data-in-log-files/
+
+
+
+* 2022-11-01
+
+
+    가장 흔한 단어 (819. Most Common Word)
+
+        - Solution Collection ()
+            * https://leetcode.com/problems/most-common-word/
+
 
