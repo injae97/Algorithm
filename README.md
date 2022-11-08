@@ -33,7 +33,7 @@
 
     가장 흔한 단어 (819. Most Common Word)
 
-        - Solution Collection (regex + Counter)
+        - Solution Collection (regex + collections.Counter / regex + collections.defaultdict(int))
             * https://leetcode.com/problems/most-common-word/
 
 
