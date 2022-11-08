@@ -21,8 +21,6 @@ banned = ["hit"]
 print(Solution().mostCommonWord(paragraph, banned))
 
 
-
-
 import re
 import collections
 class Solution:
