@@ -44,3 +44,13 @@
 
         - Solution Collection (collections.defaultdict, dict)
             * https://leetcode.com/problems/group-anagrams/
+
+
+
+* 2022-11-11
+
+
+    가장 킨 팰린드롬 부분 문자열 (5. Longest Palindromic Substring)
+
+        - Solution Collection ()
+            * https://leetcode.com/problems/longest-palindromic-substring/
