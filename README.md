@@ -33,7 +33,7 @@
 
     가장 흔한 단어 (819. Most Common Word)
 
-        - Solution Collection (regex + collections.Counter / regex + collections.defaultdict(int))
+        - Solution Collection (regex + collections.Counter, regex + collections.defaultdict(int))
             * https://leetcode.com/problems/most-common-word/
 
 
@@ -42,5 +42,5 @@
 
     그룹 애너그램 (49. Group Anagrams)
 
-        - Solution Collection ()
+        - Solution Collection (collections.defaultdict, dict)
             * https://leetcode.com/problems/group-anagrams/
