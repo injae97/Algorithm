@@ -17,7 +17,7 @@ class Solution:
 strs = ["eat","tea","tan","ate","nat","bat"]
 print(Solution().groupAnagrams(strs))
 
-class Solution(object):
+class Solution:
     def groupAnagrams(self, strs):
         d = {}
         for word in strs:
