@@ -1,4 +1,4 @@
-class Solution():
+class Solution:
     def reorderLogFiles(self, logs: list[str]) -> list[str]:
         """
         :type s: List[str]
