@@ -52,5 +52,5 @@
 
     가장 킨 팰린드롬 부분 문자열 (5. Longest Palindromic Substring)
 
-        - Solution Collection ()
+        - Solution Collection (two-pointer)
             * https://leetcode.com/problems/longest-palindromic-substring/
