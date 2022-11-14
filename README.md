@@ -47,10 +47,10 @@
 
 
 
-* 2022-11-11
+* 2022-11-14
 
 
     가장 킨 팰린드롬 부분 문자열 (5. Longest Palindromic Substring)
 
-        - Solution Collection (two-pointer )
+        - Solution Collection (two-pointer)
             * https://leetcode.com/problems/longest-palindromic-substring/
