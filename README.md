@@ -54,3 +54,13 @@
 
         - Solution Collection (two-pointer)
             * https://leetcode.com/problems/longest-palindromic-substring/
+
+
+
+* 2022-11-15
+
+
+    두 수의 합 (1. Two Sum)
+
+        - Solution Collection (brute-force)
+            * https://leetcode.com/problems/two-sum/
