@@ -2,11 +2,6 @@ class Solution:
     def longestPalindrome(self, s: str) -> str:
         # Palindrome distinction & Two-Pointer Expansion
         def expand(left: int, right: int) -> str:
-            print("left:",left)
-            print("s[left]:", s[left])
-            print("right:", right)
-            print("right:", s[right])
-
             # set boundaries
             while left >= 0 and right < len(s) and s[left] == s[right]:
                 left -= 1
