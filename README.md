@@ -64,3 +64,12 @@
 
         - Solution Collection (brute-force, dictionary)
             * https://leetcode.com/problems/two-sum/
+
+
+* 2022-11-17
+
+
+    빗물 트래핑 (42. Trapping Rain Water)
+
+        - Solution Collection ()
+            * https://leetcode.com/problems/trapping-rain-water/
