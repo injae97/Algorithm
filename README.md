@@ -71,5 +71,5 @@
 
     빗물 트래핑 (42. Trapping Rain Water)
 
-        - Solution Collection (two pointer)
+        - Solution Collection (two pointer, stack)
             * https://leetcode.com/problems/trapping-rain-water/
