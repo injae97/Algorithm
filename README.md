@@ -81,5 +81,5 @@
 
     세 수의 합 (15. 3Sum)
 
-        - Solution Collection (brute-force)
+        - Solution Collection (two pointer)
             * https://leetcode.com/problems/3sum/
