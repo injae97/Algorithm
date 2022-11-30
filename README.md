@@ -60,7 +60,7 @@
 * 2022-11-15
 
 
-    두 수의 합 (1. Two Sum1)
+    두 수의 합 (1. Two Sum)
 
         - Solution Collection (brute-force, dictionary)
             * https://leetcode.com/problems/two-sum/
