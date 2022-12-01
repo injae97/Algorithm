@@ -10,7 +10,7 @@
 
 * 2022-10-28
 
-    + [솔루션 : 문자열 뒤집기 (344. Reverse String)](https://github.com/injae97/Algorithm/blob/master/LeetCode/334_Reverse-String.py)
+    + [솔루션 : 문자열 뒤집기 (344. Reverse String)](https://github.com/injae97/Algorithm/blob/master/LeetCode/344_Reverse-String.py)
        - two pointer, list-reverse, trick 
            + [문제 풀기 : 문자열 뒤집기 (344. Reverse String)](https://leetcode.com/problems/reverse-string/)
 
