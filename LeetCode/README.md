@@ -79,9 +79,7 @@
 
 * 2022-11-28
 
-    + [유효한 팰린드롬 (125. Valid Palindrome)](https://leetcode.com/problems/valid-palindrome/)
+    + [배열 파티션 (561. Array Partition)](https://leetcode.com/problems/array-partition/)
 
-    배열 파티션 (561. Array Partition)
 
         - Solution Collection ()
-            * https://leetcode.com/problems/array-partition/
