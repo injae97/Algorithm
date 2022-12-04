@@ -1,8 +1,9 @@
 ## Programmers
   + [Level 0](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&levels=0&languages=python3)
-      + [솔루션 : 두 수의 차](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-difference.py)
-      + [솔루션 : 두 수의 곱](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-multiply.py)
+      + [솔루션 : 두 수의 차](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Difference.py)
+      + [솔루션 : 두 수의 곱](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Multiply.py)
       + [솔루션 : 몫 구하기](https://github.com/injae97/Algorithm/blob/master/Programmers/Quotient.py)
       + [솔루션 : 나이 출력](https://github.com/injae97/Algorithm/blob/master/Programmers/Age.py)
-      + [솔루션 : 나머지 구하기](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-remainder.py)
-      + [솔루션 : 숫자 비교하기](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-compare.py)
+      + [솔루션 : 나머지 구하기](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Remainder.py)
+      + [솔루션 : 숫자 비교하기](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Compare.py)
+      + [솔루션 : 두 수의 합](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Sum.py)
