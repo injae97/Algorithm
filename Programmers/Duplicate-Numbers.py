@@ -4,8 +4,12 @@ def solution(array, n):
         if n == array[i]:
             cnt += 1
 
-    answer = cnt
-    return answer
+    result = cnt
+    return result
+
+def solution2(array, n):
+    result = array.count(n)
+    return result
 
 # --------- input ------------
 array = [1, 1, 2, 3, 4, 5]
