@@ -5,3 +5,4 @@
       + [솔루션 : 몫 구하기](https://github.com/injae97/Algorithm/blob/master/Programmers/Quotient.py)
       + [솔루션 : 나이 출력](https://github.com/injae97/Algorithm/blob/master/Programmers/Age.py)
       + [솔루션 : 나머지 구하기](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-remainder.py)
+      + [솔루션 : 숫자 비교하기](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-compare.py)
