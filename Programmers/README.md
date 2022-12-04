@@ -11,3 +11,4 @@
       + [솔루션 : 두 수의 나눗셈](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Division.py)
       + [솔루션 : 양꼬치](https://github.com/injae97/Algorithm/blob/master/Programmers/Lamb-Skewers.py)
       + [솔루션 : 배열의 평균값](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Average.py)
+      + [솔루션 : 중복된 숫자 개수](https://github.com/injae97/Algorithm/blob/master/Programmers/Duplicate-Numbers.py)
