@@ -12,3 +12,4 @@
       + [솔루션 : 양꼬치](https://github.com/injae97/Algorithm/blob/master/Programmers/Lamb-Skewers.py)
       + [솔루션 : 배열의 평균값](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Average.py)
       + [솔루션 : 중복된 숫자 개수](https://github.com/injae97/Algorithm/blob/master/Programmers/Duplicate-Numbers.py)
+      + [솔루션 : 머쓱이보다 키 큰 사람](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Person.py)
