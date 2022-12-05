@@ -1,11 +1,12 @@
 def solution(dot):
-    if dot[0] >= 1 and dot[1] >= 1:
+    x, y = dot[0], dot[1]
+    if x > 0 and y > 0 :
         return 1
-    elif dot[0] < 1 and dot[1] >= 1:
+    elif x < 0 and y > 0 :
         return 2
-    elif dot[0] < 1 and dot[1] < 1:
+    elif x < 0 and y < 0 :
         return 3
-    else :
+    else:
         return 4
 
 # --------- input ------------
