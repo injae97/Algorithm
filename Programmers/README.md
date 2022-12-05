@@ -1,16 +1,23 @@
-## Programmers
-  + [Level 0](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&levels=0&languages=python3)
-      + [솔루션 : 두 수의 차](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Difference.py)
-      + [솔루션 : 두 수의 곱](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Multiply.py)
-      + [솔루션 : 몫 구하기](https://github.com/injae97/Algorithm/blob/master/Programmers/Quotient.py)
-      + [솔루션 : 나이 출력](https://github.com/injae97/Algorithm/blob/master/Programmers/Age.py)
-      + [솔루션 : 나머지 구하기](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Remainder.py)
-      + [솔루션 : 숫자 비교하기](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Compare.py)
-      + [솔루션 : 두 수의 합](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Sum.py)
-      + [솔루션 : 각도기](https://github.com/injae97/Algorithm/blob/master/Programmers/Protractor.py)
-      + [솔루션 : 두 수의 나눗셈](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Division.py)
-      + [솔루션 : 양꼬치](https://github.com/injae97/Algorithm/blob/master/Programmers/Lamb-Skewers.py)
-      + [솔루션 : 배열의 평균값](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Average.py)
-      + [솔루션 : 중복된 숫자 개수](https://github.com/injae97/Algorithm/blob/master/Programmers/Duplicate-Numbers.py)
-      + [솔루션 : 머쓱이보다 키 큰 사람](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Person.py)
-      + [솔루션 : 짝수의 합](https://github.com/injae97/Algorithm/blob/master/Programmers/Even-Sum.py)
+## 💡 Solutions
+
+### 🌱 Level 0 
++ 모든 풀이는 파이썬(Python3)
+- 풀이 문제 수: 15문제
+
+| 번호 | 문제 출처                                                                            | 솔루션                                                                                               |
+| --- |----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| 1 | [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)       | [두 수의 차.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Difference.py)       |
+| 2 | [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)       | [두 수의 곱.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Multiply.py)         |
+| 3 | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)        | [몫 구하기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Quotient.py)              |
+| 4 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)        | [나이 출력.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Age.py)                   |
+| 5 | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)      | [나머지 구하기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Remainder.py)       |
+| 6 | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)      | [숫자 비교하기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Compare.py)         |
+| 7 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802)       | [두 수의 합.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Sum.py)              |
+| 8 | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)          | [각도기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Protractor.py)              |
+| 9 | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)     | [두 수의 나눗셈.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Two-Division.py)       |
+| 10 | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)          | [양꼬치.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Lamb-Skewers.py)            |
+| 11 | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)      | [배열의 평균값.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Average.py)       |
+| 12 | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)    | [중복된 숫자 개수.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Duplicate-Numbers.py) |
+| 13 | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585) | [머쓱이보다 키 큰 사람.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Person.py)   |
+| 14 | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)        | [짝수의 합.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Even-Sum.py)              |
+| 15 | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [피자 나눠 먹기 (1).py](https://github.com/injae97/Algorithm/blob/master/Programmers/Even-Sum.py)       |
