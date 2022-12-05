@@ -2,7 +2,7 @@
 
 ### 🌱 Programmers (Level 0)
 + 모든 풀이는 파이썬(Python3)
-+ 풀이 문제 수: 23문제
++ 풀이 문제 수: 25문제
 
 | 번호  | 문제 출처                                                                               | 솔루션                                                                                                 |
 |-----|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -30,3 +30,4 @@
 | 22  | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)   | [삼각형의 완성조건 (1).py](https://github.com/injae97/Algorithm/blob/master/Programmers/Triangle(1).py)     |
 | 23  | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)       | [아이스 아메리카노.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Ice-Americano.py)       |
 | 24  | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [배열 자르기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Slicing.py)          |
+| 25  | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [점의 위치 구하기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Slicing.py)          |
