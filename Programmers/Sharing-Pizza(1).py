@@ -4,5 +4,6 @@ def solution(n):
     else:
         return n // 7 + 1
 
+# --------- input ------------
 n = 15
 print(solution(n))
