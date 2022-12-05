@@ -25,5 +25,6 @@
 | 17  | [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [배열 두 배 만들기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Double.py)       |
 | 18  | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [짝수 홀수 개수.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Even-Odd-Count.py)       |
 | 19  | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [문자열 뒤집기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/String-Reverse.py)        |
-| 20  | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [배열 원소의 길이.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Length.py) |
-| 21  | [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [최댓값 만들기 (1).py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Length.py) |
+| 20  | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [배열 원소의 길이.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Length.py)        |
+| 21  | [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [최댓값 만들기 (1).py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Max(1).py)      |
+| 21  | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | [삼각형의 완성조건 (1).py](https://github.com/injae97/Algorithm/blob/master/Programmers/Triangle(1).py)     |
