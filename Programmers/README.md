@@ -1,6 +1,6 @@
 ## 💡 Solutions
 
-### 🌱 Level 0
+### 🌱 Programmers (Level 0)
 + 모든 풀이는 파이썬(Python3)
 + 풀이 문제 수: 15문제
 
