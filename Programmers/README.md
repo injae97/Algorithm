@@ -23,3 +23,4 @@
 | 15  | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)  | [피자 나눠 먹기 (1).py](https://github.com/injae97/Algorithm/blob/master/Programmers/Sharing-Pizza(1).py) |
 | 16  | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)        | [배열 뒤집기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Reverse.py)          |
 | 17  | [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [배열 두 배 만들기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Double.py)        |
+| 18  | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [짝수 홀수 개수.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Even-Odd-Count.py)        |
