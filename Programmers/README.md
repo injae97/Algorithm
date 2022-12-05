@@ -2,7 +2,7 @@
 
 ### 🌱 Programmers (Level 0)
 + 모든 풀이는 파이썬(Python3)
-+ 풀이 문제 수: 18문제
++ 풀이 문제 수: 20문제
 
 | 번호  | 문제 출처                                                                             | 솔루션                                                                                                 |
 |-----|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -23,5 +23,6 @@
 | 15  | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)  | [피자 나눠 먹기 (1).py](https://github.com/injae97/Algorithm/blob/master/Programmers/Sharing-Pizza(1).py) |
 | 16  | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)        | [배열 뒤집기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Reverse.py)          |
 | 17  | [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [배열 두 배 만들기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Double.py)       |
-| 18  | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [짝수 홀수 개수.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Even-Odd-Count.py)       |
-| 19  | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [문자열 뒤집기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/String-Reverse.py)        |
+| 18  | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [짝수 홀수 개수.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Even-Odd-Count.py)       |
+| 19  | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [문자열 뒤집기.py](https://github.com/injae97/Algorithm/blob/master/Programmers/String-Reverse.py)        |
+| 20  | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [배열 원소의 길이.py](https://github.com/injae97/Algorithm/blob/master/Programmers/Array-Length.py) |
