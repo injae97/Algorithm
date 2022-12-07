@@ -1,13 +1,15 @@
 def solution(my_string, letter):
-
-    temp = ""
+    string = ""
     for i in range(len(my_string)):
         if my_string[i] == letter:
             continue
         else:
-            temp += my_string[i]
+            string += my_string[i]
 
-    return temp
+    return string
+
+def solution2(my_string, letter):
+    return my_string.replace(letter, '')
 
 # --------- input ------------
 my_string = "abcdef"
