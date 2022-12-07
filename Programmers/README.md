@@ -32,4 +32,4 @@
 | 24  | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)       | [배열 자르기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Array-Slicing.py)          |
 | 25  | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)    | [점의 위치 구하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Quadrant.py)       |
 | 26  | [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [피자 나눠 먹기 (3).py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Sharing-Pizza(3).py)    |
-| 27  | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)  | [특정 문자 제거하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Str-Remove.py)         | 
+| 27  | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)  | [특정 문자 제거하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/String-Remove.py)         | 
