@@ -4,8 +4,8 @@
 + 모든 풀이는 파이썬(Python3)
 + 풀이 문제 수: 27문제
 
-| 번호  | 문제 출처                                                                            | 솔루션                                                                                                 |
-|-----|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 번호  | 문제 출처                                                                            | 솔루션                                                                                                            |
+|-----|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | 1   | [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)       | [두 수의 차.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Difference.py)         |
 | 2   | [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)       | [두 수의 곱.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Multiply.py)           |
 | 3   | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)        | [몫 구하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Quotient.py)                |
@@ -30,6 +30,7 @@
 | 22  | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | [삼각형의 완성조건 (1).py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Triangle(1).py)     |
 | 23  | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)    | [아이스 아메리카노.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Ice-Americano.py)       |
 | 24  | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)       | [배열 자르기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Array-Slicing.py)          |
-| 25  | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)    | [점의 위치 구하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Quadrant.py)       |
-| 26  | [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [피자 나눠 먹기 (3).py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Sharing-Pizza(3).py)    |
-| 27  | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)  | [특정 문자 제거하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/String-Remove.py)         | 
+| 25  | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)    | [점의 위치 구하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Quadrant.py)            |
+| 26  | [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [피자 나눠 먹기 (3).py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Sharing-Pizza(3).py) |
+| 27  | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)   | [특정 문자 제거하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/String-Remove.py)      | 
+| 28  | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898) | [편지.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Letter.py)                     | 
