@@ -39,4 +39,5 @@
 | 31  | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)       | [짝수는 싫어요.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Even-Dislike.py)          | 
 | 32  | [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)       | [배열의 유사도.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Array-Similarity.py)      | 
 | 33  | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)     | [옷가게 할인 받기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Cloths-Discount.py)     | 
-| 34  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)     | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                 | 
+| 34  | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)     | [자릿수 더하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Add-Digits.py)                 | 
+| ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)     | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                 | 
