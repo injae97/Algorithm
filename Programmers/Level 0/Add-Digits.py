@@ -23,4 +23,4 @@ def solution4(n):
 
 # --------- input ------------
 n = 1234
-print(solution4(n))
+print(solution(n))
