@@ -20,6 +20,7 @@ def solution4(n):
         print(n)
 
     return answer
+
 # --------- input ------------
 n = 1234
 print(solution4(n))
