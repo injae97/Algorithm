@@ -8,6 +8,9 @@ def solution(my_string):
 
     return total
 
+def solution2(my_string):
+    return sum(int(i) for i in my_string if i.isdigit())
+
 # --------- input ------------
 my_string = "aAb1B2cC34oOp"
 print(solution(my_string))
