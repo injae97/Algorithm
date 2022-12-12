@@ -2,7 +2,7 @@
 
 ### 🌱 Programmers (Level 0)
 + 모든 풀이는 파이썬(Python3)
-+ 풀이 문제 수: 33문제
++ 풀이 문제 수: 36문제
 
 | 번호  | 문제 출처                                                                             | 솔루션                                                                                                            |
 |-----|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
@@ -41,7 +41,7 @@
 | 33  | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)     | [옷가게 할인 받기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Cloths-Discount.py)     | 
 | 34  | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)       | [자릿수 더하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Add-Digits.py)                 | 
 | 35  | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)       | [순서쌍의 개수.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Order-Pair.py)                 | 
-| ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)     | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                 | 
+| 36  | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)     | [중앙값 구하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Median.py)                 | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)     | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                 | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)     | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                 | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)     | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                 | 
