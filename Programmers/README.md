@@ -2,7 +2,7 @@
 
 ### 🌱 Programmers (Level 0)
 + 모든 풀이는 파이썬(Python3)
-+ 풀이 문제 수: 37문제
++ 풀이 문제 수: 40문제
 
 | 번호  | 문제 출처                                                                               | 솔루션                                                                                                               |
 |-----|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -43,9 +43,9 @@
 | 35  | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)         | [순서쌍의 개수.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Order-Pair.py)               | 
 | 36  | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)         | [중앙값 구하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Median.py)                   | 
 | 37  | [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | [숨어있는 숫자의 덧셈 (1).py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Number-In-String.py) | 
-| 38   | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)           | [세균 증식.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Bacterial-Growth.py)           | 
-| ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
-| ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
+| 38  | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)           | [세균 증식.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Bacterial-Growth.py)           | 
+| 39  | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)        | [제곱수 판별하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Sqrt-Discriminant.py)       | 
+| 40  | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)           | [모음 제거.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)               | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
