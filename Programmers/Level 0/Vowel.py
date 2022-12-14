@@ -16,6 +16,13 @@ def solution2(my_string):
 
     return my_string
 
+import re
+def solution3(my_string):
+    return re.sub(r"a|e|i|o|u", "", my_string)
+
+def solution4(my_string):
+    return "".join([i for i in my_string if not i in "aeiou"])
+
 # --------- input ------------
 my_string = "nice to meet you"
-print(solution2(my_string))
+print(solution4(my_string))
