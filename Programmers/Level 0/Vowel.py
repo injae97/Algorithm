@@ -9,6 +9,13 @@ def solution(my_string):
 
     return string
 
+def solution2(my_string):
+    vowels = ['a','e','i','o','u']
+    for i in range(len(vowels)):
+        my_string = my_string.replace(vowels[i], '')
+
+    return my_string
+
 # --------- input ------------
 my_string = "nice to meet you"
-print(solution(my_string))
+print(solution2(my_string))
