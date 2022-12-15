@@ -2,7 +2,7 @@
 
 ### 🌱 Programmers (Level 0)
 + 모든 풀이는 파이썬(Python3)
-+ 풀이 문제 수: 40문제
++ 풀이 문제 수: 41문제
 
 | 번호  | 문제 출처                                                                               | 솔루션                                                                                                               |
 |-----|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -46,7 +46,7 @@
 | 38  | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)           | [세균 증식.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Bacterial-Growth.py)           | 
 | 39  | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)        | [제곱수 판별하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Sqrt-Discriminant.py)       | 
 | 40  | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)           | [모음 제거.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Vowel.py)               | 
-| ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
+| 41  | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)           | [개미 군단.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Ant-Corps.py)                    | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
