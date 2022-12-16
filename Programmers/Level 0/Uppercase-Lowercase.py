@@ -14,4 +14,4 @@ def solution2(my_string):
 
 # --------- input ------------
 my_string = "cccCCC"
-print(solution2(my_string))
+print(solution(my_string))
