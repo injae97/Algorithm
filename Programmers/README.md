@@ -2,19 +2,19 @@
 
 ### 🌱 Programmers (Level 0)
 + 모든 풀이는 파이썬(Python3)
-+ 풀이 문제 수: 47문제
++ 풀이 문제 수: 48문제
 
 | 번호 | 문제 출처                                                                               | 솔루션                                                                                                               |
-|----|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| 1  | [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)          | [두 수의 차.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Difference.py)            |
-| 2  | [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)          | [두 수의 곱.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Multiply.py)              |
-| 3  | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)           | [몫 구하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Quotient.py)                   |
-| 4  | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)           | [나이 출력.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Age.py)                        |
-| 5  | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)         | [나머지 구하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Remainder.py)            |
-| 6  | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)         | [숫자 비교하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Compare.py)              |
-| 7  | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802)          | [두 수의 합.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Sum.py)                   |
-| 8  | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)             | [각도기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Protractor.py)                   |
-| 9  | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)        | [두 수의 나눗셈.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Division.py)            |
+|--|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| 1 | [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)          | [두 수의 차.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Difference.py)            |
+| 2 | [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)          | [두 수의 곱.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Multiply.py)              |
+| 3 | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)           | [몫 구하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Quotient.py)                   |
+| 4 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)           | [나이 출력.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Age.py)                        |
+| 5 | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)         | [나머지 구하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Remainder.py)            |
+| 6 | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)         | [숫자 비교하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Compare.py)              |
+| 7 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802)          | [두 수의 합.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Sum.py)                   |
+| 8 | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)             | [각도기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Protractor.py)                   |
+| 9 | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)        | [두 수의 나눗셈.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Two-Division.py)            |
 | 10 | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)             | [양꼬치.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Lamb-Skewers.py)                 |
 | 11 | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)         | [배열의 평균값.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Array-Average.py)            |
 | 12 | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)       | [중복된 숫자 개수.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Duplicate-Numbers.py)      |
@@ -53,7 +53,7 @@
 | 45 | [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850)    | [문자열 정렬하기 (1).py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/String-Sort.py)         | 
 | 46 | [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)         | [가위 바위 보.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Scissors-Rock-Paper.py)      | 
 | 47 | [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)           | [암호 해독.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Decryption.py)                        | 
-| ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
+| 48 | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845)       | [주사위의 개수.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Number-Of-Dice.py)                    | 
 | ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
