@@ -47,7 +47,7 @@
 | 39  | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)        | [제곱수 판별하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Sqrt-Discriminant.py)       | 
 | 40  | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)           | [모음 제거.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Vowel.py)               | 
 | 41  | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)           | [개미 군단.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Ant-Corps.py)                    | 
-| ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
+| 42  | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)      | [직각삼각형 출력하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Right-Triangle.py)                    | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
