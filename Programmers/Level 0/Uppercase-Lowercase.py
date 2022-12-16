@@ -9,6 +9,9 @@ def solution(my_string):
 
     return answer
 
+def solution2(my_string):
+    return my_string.swapcase()
+
 # --------- input ------------
 my_string = "cccCCC"
-print(solution(my_string))
+print(solution2(my_string))
