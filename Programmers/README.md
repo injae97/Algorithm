@@ -2,7 +2,7 @@
 
 ### 🌱 Programmers (Level 0)
 + 모든 풀이는 파이썬(Python3)
-+ 풀이 문제 수: 41문제
++ 풀이 문제 수: 43문제
 
 | 번호  | 문제 출처                                                                               | 솔루션                                                                                                               |
 |-----|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@
 | 40  | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)           | [모음 제거.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Vowel.py)               | 
 | 41  | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)           | [개미 군단.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Ant-Corps.py)                    | 
 | 42  | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)      | [직각삼각형 출력하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Right-Triangle.py)                    | 
-| ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
+| 43  | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)        | [대문자와 소문자.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Uppercase-Lowercase.py)                    | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ??  | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
