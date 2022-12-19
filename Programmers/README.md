@@ -56,7 +56,7 @@
 | 48 | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845)       | [주사위의 개수.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Number-Of-Dice.py)                    | 
 | 49 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)       | [가장 큰 수 찾기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Find-The-Largest-Num.py)                    | 
 | 50 | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)       | [약수 구하기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Divisor.py)                    | 
-| ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
+| 51 | [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)       | [배열 회전시키기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Array-Rotation.py)                    | 
 | ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
