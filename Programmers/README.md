@@ -2,7 +2,7 @@
 
 ### 🌱 Programmers (Level 0)
 + 모든 풀이는 파이썬(Python3)
-+ 풀이 문제 수: 53문제
++ 풀이 문제 수: 54문제
 
 | 번호 | 문제 출처                                                                               | 솔루션                                                                                                               |
 |--|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -59,7 +59,7 @@
 | 51 | [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)       | [배열 회전시키기.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Array-Rotation.py)                    | 
 | 52 | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)       | [외계행성의 나이.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Exoplanets-Age.py)                    | 
 | 53 | [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)       | [피자 나눠 먹기 (2).py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Sharing-Pizza(2).py)                    | 
-| ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
+| 54 | [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862)       | [최댓값 만들기 (2).py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/Array-Max(2).py)                    | 
 | ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
 | ?? | [? ? ? ? ?](https://school.programmers.co.kr/learn/courses/30/lessons/??????)       | [? ? ? ? ?.py](https://github.com/injae97/Algorithm/blob/master//Programmers/Level%200/???.py)                    | 
