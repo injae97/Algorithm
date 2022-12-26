@@ -8,7 +8,6 @@ def solution(numbers, direction):
 
     return numbers
 
-
 from collections import deque
 def solution2(numbers, direction):
     numbers = deque(numbers)
